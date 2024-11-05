@@ -7,4 +7,8 @@ $ git branch
 
 $ git status
 
-$ git push origin mainz
+$ git add aula.md
+
+$ git commit -m "adicionando sobre conteudo da aula"
+
+$ git push origin main
