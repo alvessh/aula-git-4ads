@@ -10,3 +10,5 @@ $ git status
 $ git add aula.md
 
 $ git commit -m "adicionando sobre conteudo da aula"
+
+$ git push origin main
